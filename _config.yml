@@ -1,11 +1,11 @@
 # Site settings
 author: Ashleigh Chun
-title: 
+title: Ashleigh's Coder Blog
 header-img: img/home-bg.png
 email: ashleigh.chun@wework.com
 copyright_name: Ashleigh Chun
 description: > # this means to ignore newlines until "baseurl:"
-  
+  All things WebDev
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ashleighchun
