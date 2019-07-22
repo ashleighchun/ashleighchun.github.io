@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Thoughts About My Rails Project"
-date:       2019-07-22 23:47:23 +0000
+date:       2019-07-22 19:47:24 -0400
 permalink:  thoughts_about_my_rails_project
 ---
 
