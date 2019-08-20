@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Importance of Closures"
-date:       2019-08-20 18:18:45 +0000
+date:       2019-08-20 14:18:46 -0400
 permalink:  the_importance_of_closures
 ---
 
